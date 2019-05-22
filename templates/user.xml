@@ -1,0 +1,12 @@
+<templateSet group="user">
+  <template name="jdslldsf" value="System.out.println();" description="" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="main" value="public static void main(String args[]){&#10;&#10;}" description="" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
