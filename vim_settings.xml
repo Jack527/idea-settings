@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Java/projects/LBlog/lblog-admin/src/main/java/com/jack/blog/shiro/service/ShiroService.java" timestamp="1558624671494">
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="21" column="30" />
+        <mark key="." line="21" column="30" />
+      </file>
       <file name="D:/Java/projects/LBlog/lblog-core/src/main/java/com/jack/blog/pojo/query/PermissionConditionQuery.java" timestamp="1558624519723">
         <mark key="[" line="12" column="0" />
       </file>
@@ -11,7 +16,14 @@
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>leId(Long roleId);</text>
+      </register>
+      <register name="-" type="4">
+        <text>leId(Long roleId);</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -22,6 +34,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
